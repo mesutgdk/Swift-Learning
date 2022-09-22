@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "smallerAndromeda-56a8ccf15f9b58b7d0f544fa.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "smallerAndromeda-56a8ccf15f9b58b7d0f544fa@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "smallerAndromeda-56a8ccf15f9b58b7d0f544fa@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
